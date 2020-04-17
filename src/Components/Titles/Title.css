@@ -1,0 +1,16 @@
+.title h1{
+    color: whitesmoke;
+    float: left;
+    margin-Top: -250px;
+    vertical-align: middle;
+}
+.title p{
+    color:grey;
+    float: left;
+    clear: both;
+    font-family: 'Arial';
+    font-weight:bold;
+    text-align: center;
+    font-size: larger;
+    margin-Top: -200px;
+}
